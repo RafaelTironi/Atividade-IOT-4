@@ -4,6 +4,8 @@ Discente: Rafael Tironi
 
 Docente: Amanda Paul Dull
 
+https://www.tinkercad.com/things/7RIY7KaRx7S-atividade-2aula5/
+
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
 
